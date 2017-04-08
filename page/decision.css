@@ -16,7 +16,6 @@
 .content-container {
 	margin: 0 auto;
 	width: 600px;
-	height: 100%;
 	text-align: center;
 	background-color: white;
 }
@@ -24,7 +23,7 @@
 #title {
 	font-size: 24pt;
 	font-family: 'Palanquin Dark', sans-serif;
-	padding-top: 24px;
+	padding: 24px;
 }
 
 .img {
@@ -38,3 +37,14 @@
 	padding: 12px;
 }
 
+#decision {
+	padding: 12px 0px;
+}
+
+
+.choice {
+	display: inline-block;
+	font-weight: bold;
+	padding: 12px 50px;
+	width: 250px;
+}

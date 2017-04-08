@@ -24,7 +24,7 @@
 #title {
 	font-size: 24pt;
 	font-family: 'Palanquin Dark', sans-serif;
-	padding-top: 24px;
+	padding: 24px;
 }
 
 #img {
@@ -34,4 +34,3 @@
 #description {
 	padding: 12px;
 }
-
