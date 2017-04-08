@@ -23,7 +23,8 @@
 #title {
 	font-size: 24pt;
 	font-family: 'Palanquin Dark', sans-serif;
-	padding: 24px;
+	padding: 24px 12px;
+	text-align: left;
 }
 
 .img {
@@ -40,12 +41,14 @@
 
 #description {
 	padding: 12px;
+	text-align: left;
 }
 
 #decision {
-	padding: 12px 0px;
+	padding: 12px;
 	font-family: 'Palanquin Dark', sans-serif;
 	padding-bottom: 24px;
+	text-align: left;
 }
 
 .choice {
